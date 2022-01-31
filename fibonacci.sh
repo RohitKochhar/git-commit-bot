@@ -6,5 +6,5 @@ do
     git add .
     git commit -m "Added $i_Sum to output.txt"
     git push origin main
-    sleep 1
+    sleep 3600
 done
